@@ -1,5 +1,5 @@
 {
-  "name": "leaflet",
+  "name": "nuxt-plugin-leaflet",
   "version": "1.0.0",
   "description": "leaflet for nuxt",
   "main": "index.js",
