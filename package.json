@@ -1,6 +1,6 @@
 {
   "name": "nuxt-plugin-leaflet",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "leaflet for nuxt",
   "main": "index.js",
   "scripts": {
@@ -15,6 +15,7 @@
   "author": "Marcos Túlio",
   "license": "ISC",
   "dependencies": {
-    "leaflet": "^1.6.0"
+    "leaflet": "^1.6.0",
+    "nuxt-plugin-leaflet": "^1.0.0"
   }
 }
