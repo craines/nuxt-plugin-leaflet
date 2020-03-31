@@ -40,10 +40,7 @@ plugins: [
         }
     },
     mounted() {
-      window.onNuxtReady(() => {
         this.initMap();
-        console.log(this.$L)
-      })
     }
   }
 </script>
